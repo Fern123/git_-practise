@@ -7,7 +7,7 @@ import java.util.function.Consumer;
 
 /**
  * 一、lambda 基础语法
- *     参数列表 -> 所需要执行的功能（lambda体）
+ *     参数列表 -> 所需要执行的功能（lambda体）lalal
  *
  */
 public class TestLambda {
